@@ -1,6 +1,6 @@
 # Franka_Sigma_ws
 
-This is an example to control FR3 arm by sigma.7 haptic device. 
+This is an example to control FR3 arm by sigma.7 haptic device in Rviz. 
 
 ## Steps:
 
